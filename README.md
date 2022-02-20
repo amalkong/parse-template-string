@@ -13,7 +13,7 @@ $ npm install parse-template-string
 ```
 
 ## How To Use
-```
+``` js
 const tmpParser = require("parse-template-string");
 
 const origStr = 'Hello World, visit my site <a href="{{ site_url }}">{{ site_name }}</a>';
