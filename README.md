@@ -3,8 +3,13 @@ A simple string parser for Node JS
 
 ## How To Install
 From your terminal, enter the following command
-```
+windows: 
+``` powershell
 npm install parse-template-string
+```
+unix:
+``` bash
+$ npm install parse-template-string
 ```
 
 ## How To Use
